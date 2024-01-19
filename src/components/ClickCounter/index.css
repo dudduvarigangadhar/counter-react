@@ -1,0 +1,35 @@
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  padding: 15px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+  text-align: center;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.times {
+  color: #c20a72;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
